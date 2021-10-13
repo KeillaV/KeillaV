@@ -5,7 +5,7 @@
 - 🌱 I'm current learning about Flutter and JavaScript
 
 ### About me:
-![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaVa&show_icons=true&theme=dark)
+![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV)](https://github.com/KeillaV/github-readme-stats)
 
 <code>
