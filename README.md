@@ -6,7 +6,7 @@
 
 ### About me:
 ![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV)](https://github.com/KeillaV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV&theme=dark)](https://github.com/KeillaV/github-readme-stats)
 
 <code>
 <img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
