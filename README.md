@@ -2,7 +2,7 @@
 - I'm Keilla
 - I'm from Brazil 
 - 📫 Student at IFPB, majoring in Systems Analysis and Development
-- 🌱 I'm current learning about Flutter, ![Flutter](https://logowik.com/content/uploads/images/flutter5786.jpg) JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png) and Spring Boot ![Spring Boot](https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png)
+- 🌱 I'm current learning about Flutter, JavaScript and Spring Boot
 
 ### About me:
 ![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV&theme=merko)](https://github.com/KeillaV/github-readme-stats)
