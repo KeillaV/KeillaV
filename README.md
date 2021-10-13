@@ -1,10 +1,10 @@
 ### Hi there 👋
-## I'm Keilla
-## I'm from Brazil 
-## 📫 Student at IFPB, majoring in Systems Analysis and Development
-## 🌱 I'm current learning about Flutter and JavaScript
+- I'm Keilla
+- I'm from Brazil 
+- 📫 Student at IFPB, majoring in Systems Analysis and Development
+- 🌱 I'm current learning about Flutter and JavaScript
 
-## About me:
+### About me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeillaV)](https://github.com/KeillaV)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keilla-vitória-felipe-bezerra-785437221/)](https://www.linkedin.com/in/keilla-vitória-felipe-bezerra-785437221/)
