@@ -5,18 +5,25 @@
 - 🌱 I'm current learning about React, JUnit and Spring Boot
 
 ### About me:
-![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV&theme=tokyonight)](https://github.com/KeillaV/github-readme-stats)
+![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV&layout=compact&theme=merko)](https://github.com/KeillaV/github-readme-stats)
 
 ### Languages and tools:
+<hr>
 <code>
 <img height= "35"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img height= "35"src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img height= "35"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img height= "35"src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img height= "35"src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img height= "35"src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-
 </code>
+<hr>
+<code>
+<img height= "35"src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img height= "35"src= "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img height= "35"src= "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+<img height= "35"src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+</code>
+<hr>
 
 ### Contact Links:
 
