@@ -27,5 +27,5 @@
 
 ### Contact Links:
 
-<a href="https://www.linkedin.com/in/keilla-vitória-felipe-bezerra-785437221/" target="_blank">
+<a href="https://www.linkedin.com/in/keilla-vitória-felipe-bezerra-785437221/" target="_blank" rel="noopener noreferrer">
   <img height= "30"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
