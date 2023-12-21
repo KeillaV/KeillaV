@@ -2,7 +2,7 @@
 - I'm Keilla
 - I'm from Brazil 
 - 📫 Student at IFPB, majoring in Systems Analysis and Development
-- 🌱 I'm current learning about React and JavaScript
+- 🌱 I'm current learning about Spring Framework
 
 ### About me:
 ![KeillaV's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeillaV&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeillaV&layout=compact&theme=merko)](https://github.com/KeillaV/github-readme-stats)
