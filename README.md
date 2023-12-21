@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm Keilla
 - I'm from Brazil 
-- 📫 Student at IFPB, majoring in Systems Analysis and Development
+- 🎓 Graduated in Systems Analysis and Development at IFPB
 - 🌱 I'm current learning about Spring Framework
 
 ### About me:
