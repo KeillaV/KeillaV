@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p></picture>
+<img align="right" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="250" height="250"></img>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-violet" />
   <img src="https://img.shields.io/badge/Languages-Portuguese-violet" />
