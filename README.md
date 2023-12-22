@@ -1,11 +1,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&lines=Hi!+I'm+Keilla+%F0%9F%91%8B" alt="Typing SVG" /></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake.svg">
-</picture>
+</p>
+<p align="center">	
+ <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed"></img>
 </p>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
@@ -73,13 +70,16 @@
 </div>
 
 -----
+
 <p align="center"> 
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed"></img>
-</p>
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=KeillaV&color=ff69b4" alt="watching_count" />
  </p>
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeillaV/KeillaV/output/github-contribution-grid-snake.svg">
+</picture>
+
 -----
 
 <h3 align="center" >Connect with me 🤝 </h3>
