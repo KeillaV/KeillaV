@@ -86,16 +86,5 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/KeillaV/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-user-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/github-user-light.svg" />
-  <img alt="github-snake" src="./images/github-user-dark.svg" />
-</picture>
 </div>
