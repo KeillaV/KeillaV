@@ -26,34 +26,34 @@
 
 - **Languages, Frameworks and Databases**:
     
-     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-     <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="express" width="40" height="45"/>
-     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-     <img src="https://www.svgrepo.com/show/452092/react.svg" alt="express" width="40" height="45"/>
-     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="express" width="40" height="45"/>
-     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="express" width="40" height="45"/>
-     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="express" width="40" height="45"/>
+     <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+     <a href="https://spring.io/projects/spring-framework/"><img src="https://www.svgrepo.com/show/376350/spring.svg" alt="express" width="40" height="45"/></a>
+     <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+     <a href="https://react.dev"><img src="https://www.svgrepo.com/show/452092/react.svg" alt="express" width="40" height="45"/></a>
+     <a href="https://www.mysql.com"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="express" width="40" height="45"/></a>
+     <a href="https://www.postgresql.org"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="express" width="40" height="45"/></a>
+     <a href="https://www.mongodb.com/en-us"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="express" width="40" height="45"/></a>
      
 
 - **Softwares and Tools**:
 
-    <img src="https://img.icons8.com/color/48/000000/github.png"/>
-    <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-    <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="express" width="40" height="45"/>
-    <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="express" width="40" height="45"/>
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="express" width="40" height="45"/>
-    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="express" width="40" height="45"/>
+    <a href="https://github.com"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+    <a href="https://about.gitlab.com"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="express" width="40" height="45"/></a>
+    <a href="https://code.visualstudio.com"><img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="express" width="40" height="45"/></a>
+    <a href="https://www.postman.com"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="express" width="40" height="45"/></a>
+    <a href="https://insomnia.rest"><img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="express" width="40" height="45"/></a>
   
    
 - **Interested in learn**:
 
-   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-   <img src="https://img.icons8.com/color/48/000000/docker.png"/>  
+   <a href="https://kotlinlang.org"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+   <a href="https://go.dev"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
+   <a href="https://www.typescriptlang.org"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+   <a href="https://reactnative.dev"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+   <a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>  
 </p>
 <br>
 
