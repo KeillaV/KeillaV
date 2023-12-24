@@ -15,8 +15,8 @@
 
 - 🎓 Graduated in Systems Analysis and Development at IFPB
 - 🔭 I’m currently working at Dock Tech
-- 🌱 I’m currently learning about Spring Framework
-- 📫 How to reach me: Contact part
+- 💻 My main programming language is Java 
+- 🌱 I’m currently learning about Spring Framework and Kotlin
 - 😄 Pronouns: She/Her
 
 <br>
