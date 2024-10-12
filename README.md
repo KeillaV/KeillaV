@@ -14,7 +14,7 @@
 </p>
 
 - 🎓 Graduated in Systems Analysis and Development at IFPB
-- 🔭 I’m currently working at Dock Tech
+- 🔭 I’m currently working at PicPay
 - 💻 My main programming language is Java 
 - 🌱 I’m currently learning about Spring Framework and Kotlin
 - 😄 Pronouns: She/Her
