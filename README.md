@@ -16,7 +16,7 @@
 - 🎓 Graduated in Systems Analysis and Development at IFPB
 - 🔭 I’m currently working at PicPay
 - 💻 My main programming language is Java 
-- 🌱 I’m currently learning about Spring Framework and Kotlin
+- 🌱 I’m currently learning about Software Architecture and AI fundamentals
 - 😄 Pronouns: She/Her
 
 <br>
@@ -24,7 +24,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
 
-- **Languages, Frameworks and Databases**:
+- **Languages, Frameworks, Platforms and Databases**:
     
      <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
      <a href="https://spring.io/projects/spring-framework/"><img src="https://www.svgrepo.com/show/376350/spring.svg" alt="express" width="40" height="45"/></a>
@@ -34,6 +34,8 @@
      <a href="https://www.mysql.com"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="express" width="40" height="45"/></a>
      <a href="https://www.postgresql.org"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="express" width="40" height="45"/></a>
      <a href="https://www.mongodb.com/en-us"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="express" width="40" height="45"/></a>
+	 <a href="https://kafka.apache.org"><img src="https://img.icons8.com/?size=100&id=k4fZIepXxmAZ&format=png&color=000000" alt="express" width="40" height="45"/></a>
+	 
      
 
 - **Softwares and Tools**:
@@ -51,8 +53,7 @@
 
    <a href="https://kotlinlang.org"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
    <a href="https://go.dev"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
-   <a href="https://www.typescriptlang.org"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-   <a href="https://reactnative.dev"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+   <a href="https://godotengine.org/pt-br/"><img src="https://img.icons8.com/?id=UGrLCnKJf6Px&format=png&color=000000"/></a>
    <a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>  
 </p>
 <br>
